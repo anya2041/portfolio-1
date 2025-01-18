@@ -54,5 +54,5 @@ Check out the live version of the website: [Your Portfolio Link](https://gentle-
 
 Feel free to reach out to me for collaborations or opportunities:
 - **Email**: [anya22088@iiitd.ac.in](mailto:anya22088@iiitd.ac.in)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/anya-h-896788255)
+- **LinkedIn**: [Anya H](https://www.linkedin.com/in/anya-h-896788255)
 - **GitHub**: [anya2041](https://github.com/anya2041)
